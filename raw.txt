@@ -1,95 +1,210 @@
-	Searchbull
-	
-          car rides
-          
-          Ride with confidentiality. Banish bullies with speed.
-          
-        Home
-              Gallery
-              
-              SB Logo
-              
-              Info
-              
-              Testimonials
-              
-              Lit & free for anyone. You contribute to world peace.
-              
-              Come build a new future with us. There's nothing endless to have. Available & fun for both adults and kids. It's free! Don't feel afraid to stand up for what you need.
-              
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>shabr</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+  <!--custom-->
+  <link rel="stylesheet" href="custom.css">
+  <link rel="stylesheet" href="nav.css">
+  <script src="script.js"></script>
+
+  <!--Anson Font-->
+  <link href="https://fonts.googleapis.com/css?family=Anson" rel="stylesheet">
+
+</head>
+
+<body>
+  <div id="landing" class="container">
+    <div class="container">
+      <div class="row title">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <h1>Searchbull</h1>
+          <h2>car rides</h2>
+          <h3>Ride with confidentiality. Banish bullies with speed.</h3>
+        </div>
+      </div>
+
+      <div class="row down">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <a class="go-bottom" href="#home">
+            <span class="arrow"><img src="down arrow.jpg"></span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="home" class="container">
+    <div class="well">
+      <div class="row navbr">
+        <nav class="navbar">
+          <div class="container-fluid">
+            <ul class="nav navbar-nav">
+              <li><a class="active" href="#home">Home</a></li>
+              <li><a href="#gallery">Gallery</a></li>
+              <a class="navbar-left"><img class="logo" src="SB-logo.PNG"></a>
+              <li><a href="#info">Info</a></li>
+              <li><a href="#testimonials">Testimonials</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <div id="homePage" class="container">
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Lit & free for anyone. You contribute to world peace.</h1>
+        <p>Come build a new future with us. There's nothing endless to have. Available & fun for both adults and kids. It's free! Don't feel afraid to stand up for what you need.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="gallery" class="container">
     Gallery & How to Get Involved
-    
-          Shown here is a 56-year old male whose info is on display in his computer screen. Not OK!! If you see a screen popping up that asks for your info, such as credit card number, etc. FORGET SIGNING UP!!
-          
-          Shown here is a protest in Upper Manhattan, New York, stopping racist bullies. These outraged New Yorkers stood up for their bullies. If it's necessary, organize before you start the protest/strike!
-            
-           The elderlies, shown here, are discussing the issues of segregation & what they are tired of. It's optional if you like to have a discussion meeting with friends or the ones you'd trust the most.
-           
-           The FBI squad can be pictured trying to get a suspect out of their house. Watch out, because once you type a deadly phrase or word or 2, you're NEXT!!!</p>
+    <div class="container">
+      <br>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li>
+          <li data-target="#myCarousel" data-slide-to="5"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox" data-toggle="tooltip" title="Gallery">
+          <div class="item active">
+            <img src="18495846450_1ce51ae831_b.jpg" class="img-rounded" width="460" height="345">
+            <p>Shown here is a 56-year old male whose info is on display in his computer screen. Not OK!! If you see a screen popping up that asks for your info, such as credit card number, etc. FORGET SIGNING UP!!</p>
           </div>
 
-          Pictured here is an inmate having his/her last moment(s) while awaiting for execution day. Be warned, your words matter in serious ways. Once you screw up, your consequence(s) = how you'll meet your destiny, or how your life will end as.
-          
-            Pictured here is a load of outraged citizens who are against scams/scandals. Once you reveal your crime secret, it's on you. Outraged mobs of people will hate you & call you many kinds of words or phrases, etc.
-            
-            Previous
-            
-    What you need to know about us
-    
-    Who We Are
-    
-    We are a company who established this as a way to keep you and other individuals safe anywhere you go, such as surfing Facebook, or Instagram, or even your favorite e-mail site, like Gmail, Yahoo, aol.com (who has it now?), etc.
-    
-    What We Can Do & Will Have To Do
-    
-    Although we are a company who gives us anonymous requests, we will strive to take those in a serious manner. We will look over the request, and who it is for us to aim for.
-    
-    Location
-    
-    If you're feeling in a way you don't like to feel, don't hesitate. Just contact us, and give us your location, and we'll come over to resolve your issue(s).
-    
-    Tackle down the bad vibes
-    
-    We encourage all of our guests, if they wish, to sign the petition down below & get our wish to come true. Together, we can make a difference plus positive change(s) to the world.
-    
-    Just a few of our generous customers
-    
-    	Name:
-    	
-    	Comment:
-    	
-    	Submit
-    	
-          Fred G.
-          
-          "Just the right company to come for. It gets my problems solved right away!"
+          <div class="item">
+            <img src="Anti-David_Cameron_protest_02.jpg" class="img-rounded" width="460" height="345">
+            <p>Shown here is a protest in Upper Manhattan, New York, stopping racist bullies. These outraged New Yorkers stood up for their bullies. If it's necessary, organize before you start the protest/strike!</p>
+          </div>
+
+          <div class="item">
+            <img src="Stories-of-War-Peace-and-Everything-in-Between-Insert.jpg" class="img-rounded" width="460" height="345">
+            <p>The elderlies, shown here, are discussing the issues of segregation & what they are tired of. It's optional if you like to have a discussion meeting with friends or the ones you'd trust the most.</p>
+          </div>
+
+          <div class="item">
+            <img src="160616-F-YN705-175.jpg" class="img-rounded" width="460" height="345">
+            <p>The FBI squad can be pictured trying to get a suspect out of their house. Watch out, because once you type a deadly phrase or word or 2, you're NEXT!!!</p>
+          </div>
+
+          <div class="item">
+            <img src="Veave_in_jail.jpg" class="img-rounded" width="460" height="345">
+            <p>Pictured here is an inmate having his/her last moment(s) while awaiting for execution day. Be warned, your words matter in serious ways. Once you screw up, your consequence(s) = how you'll meet your destiny, or how your life will end as.</p>
+          </div>
+        </div>
         
-        Contact: We can help. Anytime. Secret & anonymous
-        
-        Address
-        
-        SB Inc.
-        
-        5028 Searchbull Boulevard
-        
-        Dayton, OH 45377
-        
-        Phone(671) 249-3850
-        
-        Contact information: <a href="searchbullstaff@sb.com">searchbullstaff@sb.com</a>.
-        
-        Credits to Creative Commons, Google Images, & Wikimedia for all the allowance of all images & usage.
-        
-        Credits to Teleborsa for allowing me to use "Cyber Crime" image via "http://firstonline-data.teleborsa.it/news/images/83837.jpg"
-        
-        Credits to blogspot.com for allowing me to use "Cyber Crime" image via "http://3.bp.blogspot.com/-vNMnUq1HRJQ/VLAW3-O84EI/AAAAAAAABVI/WRpxVCdz6nE/s1600/down%2Barrow.jpg"
-        
-        Credits to Logomakr.com for my SB logo.
-        
-        Credits to flickr for the example pic to use for the gallery carousel
-        
-        Credits to soldiers.dodlive.mil for the allowance of the elderly meeting image.
-        
-        Credits to media.defense.gov for the allowance of the military squad image.
-        
-        Credits to the site "https://upload.wikimedia.org/wikipedia/commons/2/29/Philadelphia_Tea_Party_protestors_4-18-2009.jpg" for the image.
+        <div class="item">
+            <img src="Philadelphia_Tea_Party_protestors_4-18-2009.jpg" class="img-rounded" width="460" height="345">
+            <p>Pictured here is a load of outraged citizens who are against scams/scandals. Once you reveal your crime secret, it's on you. Outraged mobs of people will hate you & call you many kinds of words or phrases, etc</p>
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div id="info" class="container">
+    <p>What you need to know about us</p>
+    <p>Who We Are</p>
+    <p>We are a company who established this as a way to keep you and other individuals safe anywhere you go, such as surfing Facebook, or Instagram, or even your favorite e-mail site, like Gmail, Yahoo, aol.com (who has it now?), etc.</p>
+    <p>What We Can Do & Will Have To Do</p>
+    <p>Although we are a company who gives us anonymous requests, we will strive to take those in a serious manner. We will look over the request, and who it is for us to aim for.</p>
+    <p>Location</p>
+    <p>If you're feeling in a way you don't like to feel, don't hesitate. Just contact us, and give us your location, and we'll come over to resolve your issue(s).</p>
+    <p>Tackle down the bad vibes</p>
+    <p>We encourage all of our guests, if they wish, to sign the petition down below & get our wish to come true. Together, we can make a difference plus positive change(s) to the world.</p>
+
+    <div id="info" class="container">
+
+    </div>
+
+    <div id="testimonials" class="container">
+      <h1>Just a few of our generous customers</h1>
+      <div class="media">
+        <div class="media-left">
+          <img src="no_avatar.png" class="media-object" style="width:100px">
+        </div>
+        <div class="media-body">
+          <form>
+            <div class="form-group">
+              <label>Name:</label>
+              <input type="text" class="form-control" id="userName" placeholder="Name">
+            </div>
+            <div class="form-group">
+              <label>Comment:</label>
+              <input type="text" class="form-control" id="userComment" placeholder="Comment">
+            </div>
+            <button type="submit" class="btn">Submit</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="media">
+        <div class="media-left">
+          <img src="no_avatar.png" class="media-object" style="width:100px">
+        </div>
+        <div class="media-body">
+          <h3 class="media-heading">Fred G.</h3>
+          <p>"Just the right company to come for. It gets my problems solved right away!"</p>
+        </div>
+      </div>
+    </div>
+
+
+    <footer>
+      <p>Contact: We can help. Anytime. Secret & anonymous.</p>
+      <p>Address</p>
+      <p>SB Inc.</p>
+      <p>5028 Searchbull Boulevard</p>
+      <p>Dayton, OH 45377</p>
+      <p>Phone(671) 249-3850</p>
+      <p>Contact information: <a href="searchbullstaff@sb.com">searchbullstaff@sb.com</a>.</p>
+    </footer>
+
+    <footer>
+      <p>Credits to Creative Commons, Google Images, & Wikimedia for all the allowance of all images & usage. </p>
+      <p>Credits to Teleborsa for allowing me to use "Cyber Crime" image via "http://firstonline-data.teleborsa.it/news/images/83837.jpg"</p>
+      <p>Credits to blogspot.com for allowing me to use "Cyber Crime" image via "http://3.bp.blogspot.com/-vNMnUq1HRJQ/VLAW3-O84EI/AAAAAAAABVI/WRpxVCdz6nE/s1600/down%2Barrow.jpg"</p>
+      <p>Credits to Logomakr.com for my SB logo.</p>
+      <p>Credits to flickr for the example pic to use for the gallery carousel</p>
+      <p>Credits to soldiers.dodlive.mil for the allowance of the elderly meeting image.</p>
+      <p>Credits to media.defense.gov for the allowance of the military squad image.</p>
+      <p>Credits to the site "https://upload.wikimedia.org/wikipedia/commons/2/29/Philadelphia_Tea_Party_protestors_4-18-2009.jpg" for the image.</p>
+    </footer>
+
+</body>
+
+
+</html>
