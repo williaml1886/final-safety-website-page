@@ -199,10 +199,12 @@ img {
   
   .carousel-control.right {
       background-image: none;
+      color: #ff9900;
   }
   
   .carousel-control.left {
       background-image: none;
+      color: #ff9900;
   }
 
 #gallery {
@@ -271,4 +273,8 @@ footer {
 footer p {
     color: white;
     font-size: 14px;
+}
+
+li{
+    background-color: #ff9900;
 }
