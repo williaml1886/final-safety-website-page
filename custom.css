@@ -217,7 +217,7 @@ img {
 
 #testimonials {
     font-size: 20px;
-    color: #b3c4ff;
+    color: #99ceff;
     background: 
     linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)),
     url('Computer-police.jpg') no-repeat center;
@@ -232,7 +232,7 @@ footer {
 
 #info {
     font-size: 19px;
-    color: #00ff00;
+    color: #99ceff;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)),
     url('Anti-David_Cameron_protest_02.jpg') no-repeat center;
     background-size: cover;
